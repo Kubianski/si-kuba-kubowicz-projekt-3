@@ -103,13 +103,3 @@ setInterval(() => {
 
 
 
-
-
-window.addEventListener("scroll", () => {
-  document.body.style.background = "#222";
-});
-
-
-window.addEventListener("resize", () => {
-  document.body.style.background = "#333";
-});
